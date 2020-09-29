@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Jumbotron } from "react-bootstrap";
 
-import { UserList } from "components";
+import { Users } from "components";
 
 export default () => (
   <Container className="p-3">
@@ -11,6 +11,6 @@ export default () => (
       </h1>
     </Jumbotron>
 
-    <UserList />
+    <Users />
   </Container>
 );

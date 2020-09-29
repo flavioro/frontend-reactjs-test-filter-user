@@ -1,4 +1,4 @@
 import Home from './Home'
-import UserList from './UserList'
+import Users from './Users'
 
-export { Home, UserList }
+export { Home, Users }
